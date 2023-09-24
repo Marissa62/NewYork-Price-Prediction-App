@@ -16,10 +16,13 @@ index.html: Main HTML template file.
 new_modified_index.html: Modified version of the main template.
 Ugoeze Project Code (EDA and model building).ipynb: Jupyter notebook detailing the exploratory data analysis and model building process.
 Ugoeze Project code 1 (Data Cleaning).ipynb: Jupyter notebook detailing the data cleaning process.
+
 Setup and Installation
+
 Clone the repository.
 Install the required packages using pip install -r requirements.txt.
 Run the application using python app.py.
+
 Deployment
 This project is ready for deployment on Heroku. Ensure you have the Heroku CLI installed and set up. Deploy using the Procfile provided.
 
