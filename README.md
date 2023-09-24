@@ -1,4 +1,4 @@
-#NewYork Price-Prediction App
+NewYork Price-Prediction App
 This repository contains the deployment files and notebooks for the a machine learning price predictor that was deployed using heroku and flask.
 
 Contents
